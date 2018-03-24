@@ -1,0 +1,15 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "2018 Budget visualisation",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niklabh",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^6.5.3"
+  }
+}
