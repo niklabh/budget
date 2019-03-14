@@ -10,6 +10,6 @@
   "author": "niklabh",
   "license": "MIT",
   "devDependencies": {
-    "serve": "^6.5.3"
+    "serve": ">=7.0.0"
   }
 }
